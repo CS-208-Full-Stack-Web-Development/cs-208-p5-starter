@@ -2,6 +2,11 @@
 
 This is your final project!
 
+## Project links
+
+* [Video Walkthrough](https://youtu.be/0UxY0EEzB1c)
+* [Grading Rubric](https://shanepanter.com/cs208/grading-rubric.html)
+
 ## Task 1 - Run the website
 
 For this task all you need to do is make sure that you can run and debug
