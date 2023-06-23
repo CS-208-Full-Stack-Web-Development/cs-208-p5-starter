@@ -9,7 +9,7 @@ This is your final project!
 
 ## Task 0 - Student details
 
-Each team member must selecte which student they will be so I can keep all
+Each team member must select which student they will be so I can keep all
 the files straight when grading. You should have already figured out who
 is who on your initial project meeting. Each student needs to fill out
 ONE of the TODO items below.
