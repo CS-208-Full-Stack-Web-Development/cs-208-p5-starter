@@ -7,6 +7,17 @@ This is your final project!
 * [Video Walkthrough](https://youtu.be/0UxY0EEzB1c)
 * [Grading Rubric](https://shanepanter.com/cs208/grading-rubric.html)
 
+## Task 0 - Student details
+
+Each team member must selecte which student they will be so I can keep all
+the files straight when grading. You should have already figured out who
+is who on your initial project meeting. Each student needs to fill out
+ONE of the TODO items below.
+
+* student1 == TODO
+* student2 == TODO
+* student3 == TODO
+
 ## Task 1 - Run the website
 
 For this task all you need to do is make sure that you can run and debug
@@ -41,3 +52,9 @@ to the next task.
 ## Task 2 - Build your website
 
 [Final Project Specification](https://shanepanter.com/cs208/final-project.html)
+
+## Task 3 - Retrospective
+
+Once you have completed all the tasks open your Retrospective.md and complete
+each section that has a TODO label. Reference the grading rubric for
+details on how this will be graded.
