@@ -12,7 +12,7 @@ This is your final project!
 Each team member must select which student they will be so I can keep all
 the files straight when grading. You should have already figured out who
 is who on your initial project meeting. Each student needs to fill out
-ONE of the TODO items below.
+ONE of the TODO items below and then push the updated README.md to github.
 
 * student1 == TODO
 * student2 == TODO
