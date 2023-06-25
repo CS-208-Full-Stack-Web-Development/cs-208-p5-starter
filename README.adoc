@@ -146,8 +146,10 @@ about the Major.
 * The 3rd section should contain a heading in `<h2>` tags entitled "Things To
 Do". Create an unordered list of things that someone can do with their major.
 * Add in at least 2 images showing how cool your major or university is.
-* Display 10 randomly selected comments from your database in a `<ul>`
+* Display a maximum of 5 randomly selected comments from your database in a `<ul>`
 ** If there are 0 comments then you will display nothing. Do not hard code comments.
+** The first time the page loads there should be 0 comments because your
+database will be empty.
 
 === Task 2 - Comments page
 
@@ -179,7 +181,8 @@ https://www.howtogeek.com/692445/remembering-geocities-the-1990s-precursor-to-so
 are expected to write your **own** CSS to make your page look unique. You can't
 just copy and paste the same CSS between everyone on the team.
 
-NOTE: You can not use inline CSS for this project
+NOTE: You can not use inline CSS for this project or use third party CSS
+frameworks. All CSS must be written by your (or your team)!
 
 == User Story - Final Merge
 
