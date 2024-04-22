@@ -154,7 +154,7 @@ database will be empty.
 === Task 2 - Comments page
 
 You must add in a **new** page that is linked from your index page what will
-allow people to add, deleted, and update comments on your site.
+allow people to add, delete, and update comments on your site.
 Teams are allowed to share backend code for this task if they wish. However,
 sharing is not required and each member of the team can write their own
 interaction code independently.
