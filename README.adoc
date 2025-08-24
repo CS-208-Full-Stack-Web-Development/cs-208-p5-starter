@@ -19,15 +19,14 @@ if you were working as a full time engineer.
 == Software development in a Team
 
 We will be using Agile development strategies to work on our project, so read
-through the https://shanepanter.com/cs208/agile-development.html[agile
+through the https://en.wikipedia.org/wiki/Agile_software_development[agile
 development] document before you continue. We will try and simulate as much of
 the agile process in an academic setting as possible.
 
 This assignment has been designed to be done 100% asynchronously, however some
 things may be easier with a meeting over zoom or in a discussion group like
 discord. It is up to each team to decide how they will collaborate over the
-course of this project. Before you start please watch the canvas
-https://vimeo.com/58553577[groups overview] video.  Navigate to your assigned
+course of this project. Navigate to your assigned
 group in canvas to find the github classroom link to get access to your github
 repo.
 
